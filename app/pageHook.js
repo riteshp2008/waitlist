@@ -133,7 +133,6 @@ function PageHook() {
               />
             </div>
             <div className="flex items-center justify-center">
-              <span>🔥</span>
               <div className="p-[1px] bg-transparent  relative">
                 <div className="p-2 ">
                   <span className="absolute inset-0 px-3 rounded-3xl overflow-hidden">
@@ -159,8 +158,8 @@ function PageHook() {
                     />
                   </span>
                   <span className="bg-clip-text text-transparent dark:bg-gradient-to-r bg-gradient-to-tr dark:from-white from-black to-neutral-600 dark:to-neutral-700">
-                    Ritesh Patel - React.js || Redux || Next.js || Node.js ||
-                    Express.js
+                    Ritesh Patel - Frontend Developer <br />
+                    React.js || Redux || Next.js || Node.js || Express.js
                   </span>
                 </div>
               </div>
@@ -172,7 +171,7 @@ function PageHook() {
               Join The Waitlist for Next Big Thing
             </h1>
             <p className="max-w-[600px] pb-5 leading-7 text-center text-[16px] bg-clip-text text-transparent dark:bg-gradient-to-br bg-gradient-to-tr dark:from-white from-black to-neutral-600 dark:to-neutral-700 mx-auto ">
-              All New Projects Based on AI and ML, React Native, React, Next.js,
+              All New Projects Based on AI, React Native, React, Next.js,
               Node.js, MongoDB, Firebase, Framer Motion, Tailwind CSS, and many
               more. Now, you can build your own projects with the help of our
               templates and resources.
@@ -285,7 +284,7 @@ function PageHook() {
                     )}
                   </AnimatePresence>
 
-                  <div>
+                  {/* <div>
                     <Link href={testimonial.href}>
                       <Image
                         onMouseMove={handleMouseMove}
@@ -296,7 +295,7 @@ function PageHook() {
                         className="object-cover  hidden lg:block rounded-full h-11 w-6  group-hover:scale-105 group-hover:z-30   relative transition duration-500"
                       />
                     </Link>
-                  </div>
+                  </div> */}
                 </div>
               ))}
             </form>

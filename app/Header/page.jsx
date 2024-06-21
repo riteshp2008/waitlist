@@ -79,9 +79,9 @@ let textvariant = {
 // ];
 
 let Icons = [
-  { name: <PiTwitterLogoThin />, href: "https://twitter.com/Joenaldo" },
-  { name: <PiInstagramLogoThin />, href: "https://instagram.com/Joscriptt " },
-  { name: <PiGithubLogoLight />, href: "https://github.com/Joscriptt" },
+  { name: <PiTwitterLogoThin />, href: "https://twitter.com/ri_teshhh" },
+  { name: <PiInstagramLogoThin />, href: "https://instagram.com/ri.teshhh" },
+  { name: <PiGithubLogoLight />, href: "https://github.com/riteshp2008" },
 ];
 
 const people = [
