@@ -90,7 +90,7 @@ const people = [
     name: "INSTAGRAM",
     designation: "@riteshhh",
     image: "/img/insta3.gif",
-    href: "https://instagram.com/riteshhh",
+    href: "https://instagram.com/ri.teshhh",
   },
   {
     id: 2,
@@ -104,7 +104,7 @@ const people = [
     name: "GITHUB",
     designation: "@riteshp2008",
     image: "/img/git2.gif",
-    href: "https://github.com/riteshp2006",
+    href: "https://github.com/riteshp2008",
   },
 ];
 

@@ -25,7 +25,7 @@ const people = [
     name: "JOIN NOW",
     designation: "How bout u join my fuqin waitlist 😂",
     image: "/img/email.png",
-    href: "https://instagram.com/riteshhh",
+    href: "https://instagram.com/ri.teshhh",
   },
 ];
 
