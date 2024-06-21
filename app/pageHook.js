@@ -168,10 +168,10 @@ function PageHook() {
                 Amazing Framer Templates & Resources!
               </p> */}
             </div>
-            <h1 className="text-3xl font-bold  sm:text-5xl xl:text-6xl/none bg-clip-text text-transparent dark:bg-gradient-to-r bg-gradient-to-tr dark:from-white from-black to-neutral-600 dark:to-neutral-800 capitalize md:max-w-2xl lg:max-w-3xl mx-auto ">
+            <h1 className="text-3xl pb-5 font-bold  sm:text-5xl xl:text-6xl/none bg-clip-text text-transparent dark:bg-gradient-to-r bg-gradient-to-tr dark:from-white from-black to-neutral-600 dark:to-neutral-800 capitalize md:max-w-2xl lg:max-w-3xl mx-auto ">
               Join The Waitlist for Next Big Thing
             </h1>
-            <p className="max-w-[600px]  leading-7 text-center text-[16px] bg-clip-text text-transparent dark:bg-gradient-to-br bg-gradient-to-tr dark:from-white from-black to-neutral-600 dark:to-neutral-700 mx-auto ">
+            <p className="max-w-[600px] pb-5 leading-7 text-center text-[16px] bg-clip-text text-transparent dark:bg-gradient-to-br bg-gradient-to-tr dark:from-white from-black to-neutral-600 dark:to-neutral-700 mx-auto ">
               All New Projects Based on AI and ML, React Native, React, Next.js,
               Node.js, MongoDB, Firebase, Framer Motion, Tailwind CSS, and many
               more. Now, you can build your own projects with the help of our
@@ -301,7 +301,7 @@ function PageHook() {
               ))}
             </form>
           </div>
-          <div className="p-3 rounded-lg border dark:border-white/10 border-neutral-400 dark:border-opacity-10 relative top-14 sm:top-14 lg:top-24 max-w-xl mx-auto flex flex-col lg:flex-row justify-between items-center text-sm">
+          {/* <div className="p-3 rounded-lg border dark:border-white/10 border-neutral-400 dark:border-opacity-10 relative top-14 sm:top-14 lg:top-24 max-w-xl mx-auto flex flex-col lg:flex-row justify-between items-center text-sm">
             <p className=" text-zinc-500 dark:text-zinc-100">
               Get ready for all new exciting projects🔥
             </p>
@@ -317,7 +317,7 @@ function PageHook() {
               isOpenModel={isOpenModel}
               setIsOpenModel={setIsOpenModel}
             />
-          </div>
+          </div> */}
         </div>
         {/* {isOpenModel && <p>Submitted</p>} */}
       </section>
