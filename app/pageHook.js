@@ -128,7 +128,7 @@ function PageHook() {
                 width={128}
                 height={128}
                 alt="shake head"
-                src={"/img/shake.gif"}
+                src={"/img/shake2.gif"}
                 className="w-32"
               />
             </div>
