@@ -25,7 +25,7 @@ const people = [
     name: "JOIN NOW",
     designation: "How bout u join my fuqin waitlist 😂",
     image: "/img/email.png",
-    href: "https://instagram.com/sanket_bagad__",
+    href: "https://instagram.com/riteshhh",
   },
 ];
 
@@ -159,7 +159,8 @@ function PageHook() {
                     />
                   </span>
                   <span className="bg-clip-text text-transparent dark:bg-gradient-to-r bg-gradient-to-tr dark:from-white from-black to-neutral-600 dark:to-neutral-700">
-                    Sanket Bagad - MERN Stack Developer || Azure Certified || Python
+                    Ritesh Patel - React.js || Redux || Next.js || Node.js ||
+                    Express.js
                   </span>
                 </div>
               </div>
@@ -171,8 +172,10 @@ function PageHook() {
               Join The Waitlist for Next Big Thing
             </h1>
             <p className="max-w-[600px]  leading-7 text-center text-[16px] bg-clip-text text-transparent dark:bg-gradient-to-br bg-gradient-to-tr dark:from-white from-black to-neutral-600 dark:to-neutral-700 mx-auto ">
-            All New Projects Based on AI and ML, React Native, React, Next.js, Node.js, MongoDB, Firebase, Framer Motion, Tailwind CSS, and many more.
-            Now, you can build your own projects with the help of our templates and resources.
+              All New Projects Based on AI and ML, React Native, React, Next.js,
+              Node.js, MongoDB, Firebase, Framer Motion, Tailwind CSS, and many
+              more. Now, you can build your own projects with the help of our
+              templates and resources.
             </p>
             {errors.email && (
               <p className="border dark:border-white/25 border-[#704705] flex gap-x-3 items-center p-2 pl-5 max-w-md bg-gradient-to-r from-10% dark:from-[#704705] text-[#3a2503] from-[#f5a524] via-30% dark:via-black dark:to-black to-100% to-[#704705] mx-auto rounded-md dark:text-white ">

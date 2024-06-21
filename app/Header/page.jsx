@@ -88,23 +88,23 @@ const people = [
   {
     id: 1,
     name: "INSTAGRAM",
-    designation: "@sanketbagad__",
-    image: "/img/time.png",
-    href: "https://instagram.com/sanket_bagad__",
+    designation: "@riteshhh",
+    image: "/img/insta3.gif",
+    href: "https://instagram.com/riteshhh",
   },
   {
     id: 2,
     name: "TWITTER",
-    designation: "@sanketbagad__",
-    image: "/img/alarm.png",
-    href: "https://x.com/sarcastic_sb",
+    designation: "@ri_teshhh",
+    image: "/img/tweet2.gif",
+    href: "https://x.com/ri_teshhh",
   },
   {
     id: 3,
     name: "GITHUB",
-    designation: "@sanketbagad__",
-    image: "/img/party.png",
-    href: "https://github.com/sanketbagad",
+    designation: "@riteshp2008",
+    image: "/img/git2.gif",
+    href: "https://github.com/riteshp2006",
   },
 ];
 
@@ -144,9 +144,7 @@ function Headpage() {
       <div className="flex justify-between md:max-w-5xl max-w-lg mx-auto lg:mt-16 mt-11 md:px-8 px-9">
         <div className="flex gap-x-3 items-center">
           <Switch checked={checked} setChecked={setChecked} />
-          <p className="text-sm text-white hidden md:block">
-            Change Theme
-          </p>
+          <p className="text-sm text-white hidden md:block">Change Theme</p>
         </div>
 
         {/* come back to fix this later */}
