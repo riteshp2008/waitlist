@@ -171,7 +171,7 @@ function PageHook() {
               Join The Waitlist for Next Big Thing
             </h1>
             <p className="max-w-[600px] leading-7 text-center text-[16px] bg-clip-text text-transparent dark:bg-gradient-to-br bg-gradient-to-tr dark:from-white from-black to-neutral-600 dark:to-neutral-700 mx-auto ">
-              All New Projects Based on AI, React Native, React, Next.js,
+              All New Projects Based on AI, React Native, React.js, Next.js,
               Node.js, MongoDB, Firebase, Framer Motion, Tailwind CSS, and many
               more. Now, you can build your own projects with the help of our
               templates and resources.
